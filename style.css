@@ -1,0 +1,136 @@
+*{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+    float: left;
+
+}
+.nav-bar a {
+    position: relative;
+    padding: 8px;
+    top: 20px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+a:hover{
+    color: yellow;
+}
+
+.header{
+    color: red;
+    font-family: sans-serif;
+    float: left;
+}
+  
+ 
+
+.button {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 5px;
+    float: right;
+    border-radius: 5px;
+}
+
+.car-image{
+    position: relative;
+    top: 9%;
+}
+
+.home-content{
+    color: white;
+    position: absolute;
+    top: 90%;
+}
+
+.home-content p{
+    padding-top: 25px;
+}
+
+.second-content{
+    position: absolute;
+    color: white;
+    top: 900px;
+    width: 50%;
+}
+
+.icon-1 i, .icon-2 i{
+    color: red;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 0px;
+}
+.icon-1 p, .icon-2 p{
+    font-size: 18px;
+}
+.icon-1, .icon-2{
+    width: 25%;
+    float: left;
+    margin: 10px;
+    margin-left: 0px;
+}
+.second-content-img{
+    width: 50%;
+    float: right;
+}
+
+.third-content-img{
+    position: absolute;
+    top: 1400px;
+    width: 25%;
+}
+
+.third-content{
+    margin-top: 90px;
+    width: 50%;
+    float: right;
+    color: white;
+}
+.third-content p{
+    font-size: 14px;
+}
+
+.third-left, .third-right{
+    width: 25%;
+    float: left;
+    margin: 10px;
+    margin-left: 0px;
+}   
+
+.footer{
+    position: absolute;
+    top: 2000px;
+    width: 100%;
+}
+
+.footer p{
+    margin-top: 10px;
+    color: white;
+    font-size: 12px;
+
+}
+
+.footer-right{
+    position: absolute;
+    left: 900px;
+}
+.footer-right i{
+    color: white;
+}

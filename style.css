@@ -51,7 +51,8 @@ a:hover{
 
 .car-image{
     position: relative;
-    top: 9%;
+    width: 100%
+    top: 12%;
 }
 
 .home-content{
